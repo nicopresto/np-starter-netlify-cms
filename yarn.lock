@@ -5894,7 +5894,6 @@ fsevents@^1.2.7:
   dependencies:
     bindings "^1.5.0"
     nan "^2.12.1"
-    node-pre-gyp "*"
 
 fsevents@~2.1.1:
   version "2.1.2"
@@ -9558,7 +9557,7 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
-netlify-cms-app@^2.9.6:
+netlify-cms-app@^2.9.8-beta.4:
   version "2.12.3"
   resolved "https://registry.yarnpkg.com/netlify-cms-app/-/netlify-cms-app-2.12.3.tgz#f02d8f966732d22c98143fdcc6ce76fdbfc8720d"
   integrity sha512-LS8pmBNQOWWI+f12uWfzd68PwHKsPbTNf7AL1UNzy3b4NjnoE5ddbwtRGlv88blJcF9DrxzdpyTSeS5nP8OYVA==
